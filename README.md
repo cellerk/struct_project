@@ -13,4 +13,4 @@ The world_happiness_ranking_2015.csv file contains the following information: Co
 - Some countries are missing data, and the missing values are denoted with "0" within the csv file.
 - Not all countries are represented.
 
-My program calculates the percentage of female labour force participation in a country (calculated based on info in the gender_inequality.csv), and compares it to a country's happiness index (found in world_happiness_ranking_2015.csv)
+My program calculates the percentage of female labour force participation in a country (calculated based on info in the gender_inequality.csv), and compares it to a country's happiness index (found in world_happiness_ranking_2015.csv). It then plots the results. Five countries (Canada, USA, Japan, Cameroon and Saudia Arabia) are indicated on the outputted plot.
